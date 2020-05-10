@@ -1,45 +1,35 @@
 <p align="left">
 	<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
-	<h2 align="left"> < ADD PROJECT TITLE > </h2>
-	<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
+	<h2 align="left">Project Ideas</h2>
+	<h4 align="left">This github repository consists of list of project ideas, that any developer in the beginning may opt to brush up his/her skills.<h4>
 </p>
 
----
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](INSERT_UI_LINK_HERE)
+## List of few projects
 
-
-## Functionalities
-- [ ]  < ADD FUNCTIONALITY >
-- [ ]  < ADD FUNCTIONALITY >
-
-<br>
-
-
-## Instructions to run
-
-* Pre-requisites:
-	-  < add pre-requisite >
-	-  < add pre-requisite >
-
-* Directions to setup/install
-```bash
-< insert code >
-```
-
-* Directions to execute
-
-```bash
-< insert code >
-```
-
-<br>
-
-## Contributors
-
-* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
-
-
+* Music App
+* Resume creater using templates
+* Greeting card sender through email(downloadable too)
+* Url shortener and click analytics
+* Github profile analyser through github api
+* Photos grid portfolio
+* Facebook Birthday Auto Wisher
+* Online Code Compiler
+* JSON to CSV converter
+* Quiz App
+* Typing master
+* Voting App
+* Codeforces Stalker
+* Open Source Portfolio Template
+* Twitter Sentimental Analyser
+* Twitter tweets shortner
+* Youtube Clone
+* Weather App
+* Blogging Application
+* News Application
+* Movie Application
+* Spotify Profile Analyser
+* Open Source NPM package
+* Tool to conduct online examination
 
 <br>
 <br>
